@@ -28,13 +28,17 @@ Displays detailed information about the Pokémon, including stats, abilities, an
 Technologies Used :
 Backend: ASP.NET MVC (.NET Framework)
 Frontend: HTML, CSS, JavaScript, Bootstrap
-API: PokéAPI
+API: [PokéAPI](https://pokeapi.co/api/v2/)
 NuGet Packages:
+
 RestSharp (for API calls)
 Newtonsoft.Json (for JSON parsing)
 
 How It Works
 1.The user enters a Pokémon name in the search box.
+
 2.The application makes a request to the PokéAPI using RestSharp.
+
 3.The API response is deserialized into a Pokemon model.
+
 4.The details are displayed in a responsive and visually appealing layout.
