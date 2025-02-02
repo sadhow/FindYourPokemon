@@ -1,6 +1,6 @@
 Pokémon MVC Application
 
-A simple ASP.NET MVC application that fetches and displays Pokémon details using the PokéAPI. This project is built using .NET Framework (not .NET Core) and demonstrates basic API integration, data binding, and responsive UI design.
+A simple ASP.NET MVC application that fetches and displays Pokémon details using the PokéAPI. This project is built using .NET Framework and demonstrates basic API integration, data binding, and responsive UI design.
 
 Features :
 
