@@ -5,9 +5,13 @@ A simple ASP.NET MVC application that fetches and displays Pokémon details usin
 Features :
 
 Search Pokemon: Enter a Pokemon name to fetch its details.
+
 Detailed Information: Displays Pokémon stats, abilities, types, and more.
+
 Responsive Design: Works seamlessly on desktop and mobile devices.
+
 Modern UI: Stylish animations and effects for an engaging user experience.
+
 Error Handling: Gracefully handles invalid Pokémon names and API errors.
 
 Screenshots:
@@ -26,15 +30,21 @@ Details Page
 Displays detailed information about the Pokémon, including stats, abilities, and types.
 
 Technologies Used :
+
 Backend: ASP.NET MVC (.NET Framework)
+
 Frontend: HTML, CSS, JavaScript, Bootstrap
+
 API: [PokéAPI](https://pokeapi.co/api/v2/)
+
 NuGet Packages:
 
 RestSharp (for API calls)
+
 Newtonsoft.Json (for JSON parsing)
 
 How It Works
+
 1.The user enters a Pokémon name in the search box.
 
 2.The application makes a request to the PokéAPI using RestSharp.
