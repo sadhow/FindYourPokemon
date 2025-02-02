@@ -17,7 +17,7 @@ Screenshots:
 Search Page
 The main search page where users can enter a Pokémon name.
 
-3. Pokémon Details Page
+2. Pokémon Details Page
    ![image](https://github.com/user-attachments/assets/dc3af6aa-3003-48c0-b8e9-5d5809bdcc17)
 
    ![image](https://github.com/user-attachments/assets/b6873eb3-48c5-4150-bbbf-db836c5f8b88)
