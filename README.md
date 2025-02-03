@@ -1,49 +1,49 @@
-Pokémon MVC Application
+# Pokémon MVC Application
 
 A simple ASP.NET MVC application that fetches and displays Pokémon details using the PokéAPI. This project is built using .NET Framework and demonstrates basic API integration, data binding, and responsive UI design.
 
-Features :
+## Features :
 
-Search Pokemon: Enter a Pokemon name to fetch its details.
+- **Search Pokemon**: Enter a Pokemon name to fetch its details.
 
-Detailed Information: Displays Pokémon stats, abilities, types, and more.
+- **Detailed Information**: Displays Pokémon stats, abilities, types, and more.
 
-Responsive Design: Works seamlessly on desktop and mobile devices.
+- **Responsive Design**: Works seamlessly on desktop and mobile devices.
 
-Modern UI: Stylish animations and effects for an engaging user experience.
+- **Modern UI**: Stylish animations and effects for an engaging user experience.
 
-Error Handling: Gracefully handles invalid Pokémon names and API errors.
+- **Error Handling**: Gracefully handles invalid Pokémon names and API errors.
 
-Screenshots:
-1. Pokémon Search Page
+## Screenshots:
+### Pokémon Search Page
   ![image](https://github.com/user-attachments/assets/26e0c5f2-d170-4aac-a58b-b6b0dcae8fdc)
 
 Search Page
 The main search page where users can enter a Pokémon name.
 
-2. Pokémon Details Page
+### Pokémon Details Page
    ![image](https://github.com/user-attachments/assets/dc3af6aa-3003-48c0-b8e9-5d5809bdcc17)
 
    ![image](https://github.com/user-attachments/assets/b6873eb3-48c5-4150-bbbf-db836c5f8b88)
 
-Details Page
+### Details Page
 Displays detailed information about the Pokémon, including stats, abilities, and types.
 
-Technologies Used :
+## Technologies Used :
 
-Backend: ASP.NET MVC (.NET Framework)
+- **Backend**: ASP.NET MVC (.NET Framework)
 
-Frontend: HTML, CSS, JavaScript, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
 
-API: [PokéAPI](https://pokeapi.co/api/v2/)
+- **API**: [PokéAPI](https://pokeapi.co/api/v2/)
 
-NuGet Packages:
+- **NuGet Packages**:
 
-RestSharp (for API calls)
+- **RestSharp (for API calls)**
 
-Newtonsoft.Json (for JSON parsing)
+- **Newtonsoft.Json (for JSON parsing)**
 
-How It Works
+## How It Works
 
 1.The user enters a Pokémon name in the search box.
 
